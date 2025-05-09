@@ -20,6 +20,7 @@ Testing      : xUnit, Karma, Cypress, WireMock
 ### 🌟 Featured Projects
 
 📌 **[Loan Application Portal API](https://github.com/AbhinavMaram/loan-application-portal.api)**  
+📌 **[Loan Application Portal WEB](https://github.com/AbhinavMaram/loan-application-portal.web)** 
 A full-stack solution with modern Angular UI, JWT auth, Dockerized backend, and complete test coverage.
 
 ---
