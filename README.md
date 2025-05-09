@@ -57,9 +57,6 @@ A full-stack solution with modern Angular UI, JWT auth, Dockerized backend, and 
   <a href="https://github.com/AbhinavMaram" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://portfolio.example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-  </a>
 </p>
 
 ---
