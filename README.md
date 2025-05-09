@@ -48,7 +48,7 @@ A full-stack solution with modern Angular UI, JWT auth, Dockerized backend, and 
 ### 📫 Reach Me At
 
 <p>
-  <a href="www.linkedin.com/in/abhinav-maram-452a34364" target="_blank">
+  <a href="https://www.linkedin.com/in/abhinav-maram-452a34364" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:maramabhi2309@outlook.com">
