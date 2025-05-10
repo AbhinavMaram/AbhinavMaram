@@ -19,7 +19,7 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Ongoing Projects
 
 📌 **[Loan Application Portal API](https://github.com/AbhinavMaram/loan-application-portal.api)**  
 📌 **[Loan Application Portal WEB](https://github.com/AbhinavMaram/loan-application-portal.web)** 
