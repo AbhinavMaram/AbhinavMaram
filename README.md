@@ -21,8 +21,8 @@
 
 ### 🌟 Ongoing Projects
 
-📌 **[Loan Application Portal API](https://github.com/AbhinavMaram/loan-application-portal.api)**  
-📌 **[Loan Application Portal WEB](https://github.com/AbhinavMaram/loan-application-portal.web)** 
+📌 **[Task Manager API](https://github.com/AbhinavMaram/TaskManager.Api)**  
+📌 **[Task Manager WEB](https://github.com/AbhinavMaram/TaskManager.Client)** 
 
 A full-stack solution with modern Angular UI, JWT auth, Dockerized backend, and complete test coverage.
 
