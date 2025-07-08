@@ -21,9 +21,7 @@
 
 ### 🌟 Ongoing Projects
 
-📌 **[Task Manager API](https://github.com/AbhinavMaram/TaskManager.Api)**  
-📌 **[Task Manager WEB](https://github.com/AbhinavMaram/TaskManager.Client)** 
-
+📌 **[Shopping Cart](https://github.com/AbhinavMaram/shoppingCart)**  
 ---
 
 ### 📫 Reach Me At
