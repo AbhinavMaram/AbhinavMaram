@@ -24,25 +24,6 @@
 📌 **[Task Manager API](https://github.com/AbhinavMaram/TaskManager.Api)**  
 📌 **[Task Manager WEB](https://github.com/AbhinavMaram/TaskManager.Client)** 
 
-A full-stack solution with modern Angular UI, JWT auth, Dockerized backend, and complete test coverage.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavMaram&show_icons=true&theme=react&hide_title=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavMaram&theme=react" height="150" />
-</p>
-
----
-
-### 🎯 Currently Working On
-
-- 🔭 Improving the UI/UX of Angular apps  
-- 🧪 Enhancing unit/integration test coverage (xUnit + Cypress)  
-- 🐳 Building full-stack Docker environments for rapid local deployment  
-
 ---
 
 ### 📫 Reach Me At
