@@ -22,9 +22,9 @@
 
 ### 🌟 Experience Highlights
 
-- **Regions Bank (2023 – Present):** Delivered .NET + Angular banking apps, hybrid mobile app, CI/CD pipelines, and secure APIs.  
+- **Regions Bank (2023 – Present):** Delivered .NET Core + Angular banking apps, hybrid mobile app, CI/CD pipelines, and secure APIs.  
 - **McKinsey & Company (2020 – 2021):** Built Java microservices, AWS deployments, ETL pipelines with PySpark, and HIPAA-compliant APIs.  
-- **HCL Tech (2018 – 2019):** Developed bus booking app modules, React UIs, Kafka/Hadoop integrations, and containerized deployments.  
+- **HCL Tech (2018 – 2019):** Designed end-to-end backend modules for a bus booking application using C#, ASP.NET Core MVC, Web API, implementing route search algorithms, seat reservation business logic, and e-ticketing services with RESTful architecture and React.js frontend integration.  
 
 ---
 
